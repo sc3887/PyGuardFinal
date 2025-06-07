@@ -1,0 +1,10 @@
+--- Function Length ---
+main.py: Function 'analyze_python_code' is too long (41 lines)
+
+--- Missing Docstrings ---
+main.py: Function 'analyze_python_code' missing docstring
+main.py: Function 'plot_histogram' missing docstring
+main.py: Function 'plot_pie' missing docstring
+main.py: Function 'plot_bar' missing docstring
+main.py: Function 'plot_line' missing docstring
+
